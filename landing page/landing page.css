@@ -1,0 +1,234 @@
+ .img6{position: absolute;
+    width: 1559px;
+    height: 882px;
+    left: 17px;
+    top: 131px;
+    
+    /* BG/Dark 3 */
+    
+    background: linear-gradient(115.81deg, #26344C 0%, #253B56 100%);
+    border-radius: 24px 24px 400px 24px;
+}
+ #h1{position: absolute;
+    width: 495px;
+    height: 138px;
+    left: 89px;
+    top: 100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    
+    line-height: 116px;
+    background: linear-gradient(90.22deg, #07A2CD 11.34%, #1DA3A5 54.86%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-emphasis-color: transparent;
+    }
+   
+    /*let's ma...*/
+#h12{
+position: absolute;
+width: 1032px;
+height: 78px;
+left: 79px;
+top: 283px;
+        
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 450px;
+        
+color: rgb(34, 72, 196);
+  }
+        /*p*/
+ p{position: absolute;
+width: 871px;
+height: 123px;
+left: 96px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+#im4{
+position: absolute;
+width: 290.73px;
+height: 366.84px;
+left: 1100.59px;
+top: 461px;
+/*background: url(6.png);*/
+transform: rotate(2.28deg);
+}
+#im5{
+    position: absolute;
+    width: 628px;
+    height: 786px;
+    left: 1100px;
+    top: 76px;
+    /*background: url(Web content.png);*/
+    }
+    #b1{
+        position: absolute;
+        width: 148px;
+        height: 42px;
+        left: 144.71px;
+        top: 770px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        
+        color: black;
+        }
+    
+#b2{position: absolute;
+    width: 150px;
+    height: 42px;
+    left: 428.71px;
+    top: 770px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: black;
+    }
+
+h2{
+    position: absolute;
+    width: 1836px;
+    height: 122px;
+    left: 222px;
+    top: 1100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+    }
+
+    #h21{
+        position: absolute;
+        width: 1077px;
+        height: 58px;
+        left: 261px;
+        top: 1208px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 58px;
+        /* identical to box height */
+        
+        letter-spacing: 0.12em;
+        
+        color: #000000;
+        }
+        
+#im1{position: absolute;
+width: 300px;
+height: 300px;
+left: 165px;
+top: 1324px;
+background: url(gloss);
+/*mix-blend-mode: screen;*/
+}
+.fic1{
+    
+        position: absolute;
+        width: 414px;
+        height: 48px;
+        left: 190px;
+        top: 1607px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+        
+        color: #000000;
+      
+}
+
+#im2{
+    position: absolute;
+    width: 275.07px;
+    height: 241.51px;
+    left: 664px;
+    top: 1399.71px;
+   background: url(10);
+    transform: rotate(-4.78deg);
+    }
+   .fic2 {
+        position: absolute;
+        width: 414px;
+        height: 48px;
+        left: 600px;
+        top: 1607px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+        
+        color: #000000;
+        }
+        .im3{
+        position: absolute;
+        width: 275.07px;
+         height: 241.51px;
+         left: 1200px;
+         top: 1390.71px;
+         background: url(10);
+         transform: rotate(-2.78deg);
+            }
+            .box1{position: absolute;
+                width: 219px;
+                height: 75px;
+                left: 89px;
+                top: 753px;
+                
+                background: #C70CA9;}
+                .box2{box-sizing: border-box;
+
+                    position: absolute;
+                    width: 219px;
+                    height: 75px;
+                    left: 359.71px;
+                    top: 753px;
+                    
+                    border: 1px solid #FFFFFF;}
+            .fic3{
+            position: absolute;
+            width: 414px;
+            height: 48px;
+            left: 1131px;
+            top: 1607px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 39px;
+            
+            color: #000000;
+            }

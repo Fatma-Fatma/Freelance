@@ -1,0 +1,249 @@
+.im1{
+    position: absolute;
+    width: 1100px;
+    height: 700px;
+    left: 110px ;
+    right: 50px;
+    top: 300px;
+    justify-content:space-evenly;
+    background: linear-gradient(141.92deg, #273851 2.92%, #9561E5 144.89%);
+    border-radius: 30px;
+}
+.im2{
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    left: 150px;
+    top: 330px;
+    
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    }
+  /*  .btn1{
+position: absolute;
+width: 288.65px;
+height: 74px;
+left: 1100px;
+top: 910px;
+background: rgba(241, 240, 240, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+ }
+ .qr-icon{
+    position: absolute;
+    width: 80.65px;
+    height: 74px;
+    left: 10px;
+    top: 1px;
+    background: rgba(241, 240, 240, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+     }
+     .qr-text{
+        position: absolute;
+        width: 120.65px;
+        height: 74px;
+        left: 100px;
+        top: 16px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: rgba(0, 0, 0, 0.85);
+
+         }*/
+         .btn1{
+            position: absolute;
+            width: 288.65px;
+            height: 74px;
+            left: 700px;
+            top: 910px;
+            background: rgba(241, 240, 240, 0.5);
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 15px;
+             }
+             .qr-icon{
+                position: absolute;
+                width: 80.65px;
+                height: 70px;
+                left: 10px;
+                top: 1px;
+                background: rgba(241, 240, 240, 0.5);
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                border-radius: 15px;
+                 }
+                 .qr-text{
+                    position: absolute;
+                    width: 120.65px;
+                    height: 74px;
+                    left: 100px;
+                    top: 16px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 36px;
+            
+            color: rgba(0, 0, 0, 0.85);
+            
+                     }
+                     .btn2{
+                        position: absolute;
+                        width: 288.65px;
+                        height: 74px;
+                        left: 300px;
+                        top: 910px;
+                        background: rgba(241, 240, 240, 0.5);
+                        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                        border-radius: 15px;
+                         }
+                         .transfer-icon{
+                            position: absolute;
+                            width: 100.65px;
+                            height: 70px;
+                            left: -30px;
+                            top: 1px;
+                            background: rgba(241, 240, 240, 0.5);
+                            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                            border-radius: 15px;
+                             }
+                             .transfer-text{
+                                position: absolute;
+                                width: 120.65px;
+                                height: 74px;
+                                left: 100px;
+                                top: 16px;
+                        font-family: 'Inter';
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 30px;
+                        line-height: 36px;
+                        
+                        color: rgba(0, 0, 0, 0.85);
+                        
+                                 }   
+                                 
+ .history{
+    position: absolute;
+    width: 238px;
+    height: 42px;
+    left: 64px;
+    top: 1106px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 60px;
+    
+    color: rgba(0, 0, 0, 0.85);
+}    
+   .center{
+    /* position: absolute;
+     right: 100px;
+     left:500px;
+     bottom: -50px;
+     top:1200px;
+     width: 1800px ;
+     height:100px;
+     padding: 10px;*/
+     position: absolute;
+     width: 900.86px;
+     height: 900.73px;
+     left: 150px;
+     top: 1300px;
+background: rgba(255, 255, 255, 0.9);
+box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+   }
+   
+   
+/*navigation barr*/
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #283952;
+  width:100%;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  top:100px
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  border-bottom: 3px solid rgb(74, 74, 189);
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+@media screen and (max-width: 600px) {
+  .topnav .search-container {
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 64px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+.topnav img{
+ height:60px ;
+ width:30px;
+position: absolute;
+left: 3.17%;
+right: 5000.27%;
+top: 60.53%;
+bottom: 170.13%;
+transform: matrix(0.84, 0.54, -0.69, 0.73, 0, 0)
+  }
